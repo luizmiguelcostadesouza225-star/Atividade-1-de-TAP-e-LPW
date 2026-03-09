@@ -1,7 +1,7 @@
-var nota1 = number(prompt(
+var nota1 = Number(prompt(
     "digite o numero da nota 1"
 ))
-var nota2 = number(prompt(
+var nota2 = Number(prompt(
     "digite o numero da  nota 2"
 ))
 soma = (nota1 + nota2) / 2 
