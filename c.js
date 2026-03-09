@@ -1,4 +1,4 @@
-var preco = number(prompt("dfigite o preço do produto!"))
+var preco = Number(prompt("dfigite o preço do produto!"))
 var vista = (preco * 10) / 100
 var resultado = preco - vista 
 var parcela = (preco / 3)
